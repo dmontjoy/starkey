@@ -1,0 +1,7 @@
+=+Salarios!B55+Salarios!E55+Salarios!F55+Salarios!G55-
+'Ppto Operaciones'!D2-'Ppto Operaciones'!D3-'Ppto Operaciones'!D4-'Ppto Operaciones'!D5-'Ppto Operaciones'!D6-'Ppto Operaciones'!D7-
+'Ppto Operaciones'!D8-'Ppto Operaciones'!D9-'Ppto Operaciones'!D10-'Ppto Operaciones'!D11-'Ppto Operaciones'!D12-
+'Ppto Operaciones'!D18-
+'Ppto MKT'!D4-'Ppto MKT'!D5-'Ppto MKT'!D6-
+'Ppto RS'!D3-'Ppto RS'!D4-'Ppto RS'!D5-
+'Ppto RRHH'!D2-'Ppto RRHH'!D3-'Ppto RRHH'!D4-'Ppto RRHH'!D5-'Ppto RRHH'!D7-'Ppto RRHH'!D10-'Ppto RRHH'!D15
